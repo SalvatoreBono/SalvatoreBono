@@ -2,12 +2,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalvatoreBono&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/aee659681976348fd35a9af40eea88c5e790843c586c2d32a4d4d3d9389e7619/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6677453853687a6674676e35303277425a6c2f67697068792e6769663f6369643d65636630356534376c78676c797338713564786176617666347976657468713835707730303678756f353761647831752665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
