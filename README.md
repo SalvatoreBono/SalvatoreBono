@@ -34,10 +34,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/SalvatoreBono/SalvatoreBono/output/snake.svg" alt="Snake animation" />
 
 
