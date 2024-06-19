@@ -3,6 +3,12 @@
 
 - 📫 How to reach me **salvatorebono2001@gmail.com**
   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/salvatore-bono-692824255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvatore bono" height="30" width="40" /></a>
+<a href="https://www.instagram.com/salvatore__bono/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@salvatore__bono" height="30" width="40" /></a>
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
