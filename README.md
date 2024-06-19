@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Jr. Full Stack Web Developer</h3>
 
 - 📫 How to reach me **salvatorebono2001@gmail.com**
-- 
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
